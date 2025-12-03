@@ -6,6 +6,6 @@ input.onGesture(Gesture.Shake, function () {
     } else if (hand == 2) {
         basic.showIcon(IconNames.Square)
     } else {
-    	
+        basic.showIcon(IconNames.Scissors)
     }
 })
