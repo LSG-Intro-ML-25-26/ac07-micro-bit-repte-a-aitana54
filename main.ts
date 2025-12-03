@@ -3,7 +3,7 @@ input.onGesture(Gesture.Shake, function () {
     hand = randint(1, 3)
     if (hand == 1) {
         basic.showIcon(IconNames.SmallSquare)
-    } else if (false) {
+    } else if (0 == 0) {
     	
     } else {
     	
