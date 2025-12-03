@@ -1,7 +1,7 @@
 let hand = 0
 input.onGesture(Gesture.Shake, function () {
     hand = randint(1, 3)
-    if (0 == 0) {
+    if (hand == 1) {
     	
     } else {
     	
